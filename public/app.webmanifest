@@ -1,0 +1,20 @@
+{
+    "id": "sfes-pwa-1",
+    "name": "SFES - Snakefruit-Fertilization-Expert-System",
+    "short_name": "SFES",
+    "description": "Sistem Pakar Rekomendasi Pupuk Salak dengan Metode Naive Bayes",
+    "theme_color": "#3376b8",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "assets/img/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png",
+            "density": "0.75",
+            "purpose": "any"
+        }
+    ]
+}
