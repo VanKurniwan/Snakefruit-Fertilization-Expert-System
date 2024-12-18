@@ -77,6 +77,7 @@ class Register extends Component
         $registerData->save();
 
         session()->put('nama', $this->nama);
+        session()->put('username', $this->username);
 
         return redirect('/home');
     }
